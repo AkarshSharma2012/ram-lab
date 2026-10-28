@@ -1,0 +1,9 @@
+title: Ram Lab
+description: Agent reliability experiments and forensic reports. Planning stage.
+theme: jekyll-theme-minimal
+url: https://akarshsharma2012.github.io
+baseurl: /ram-lab
+exclude:
+  - docs
+  - reports
+  - research
